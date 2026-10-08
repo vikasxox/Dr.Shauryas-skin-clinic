@@ -1,0 +1,12 @@
+{
+  "business": "Dr Shaurya's Skin Clinic",
+  "doctor": "Dr. Shaurya Rohatgi",
+  "phone": "+91 97697 32023",
+  "maps": "https://maps.app.goo.gl/EX4wcnxJd58D7fbm7?g_st=ac",
+  "asset_counts": {
+    "media": 13,
+    "reviews": 8,
+    "case_images": 2,
+    "reference_excluded": 6
+  }
+}

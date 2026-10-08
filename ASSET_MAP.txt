@@ -1,0 +1,37 @@
+# Asset map
+
+## Public media
+- 48454.jpg → images/media/doctor-portrait.jpg
+- 48455.jpg → images/media/laser-treatment-01.jpg
+- 48456.jpg → images/media/clinical-procedure-01.jpg
+- 48457.jpg → images/media/consultation-room.jpg
+- 48458.jpg → images/media/treatment-room-01.jpg
+- 48459.jpg → images/media/clinical-procedure-02.jpg
+- 48460.jpg → images/media/clinic-exterior.jpg
+- 48461.jpg → images/media/clinical-procedure-03.jpg
+- 48462.jpg → images/media/treatment-room-02.jpg
+- 48463.jpg → images/media/dermatology-congress-01.jpg
+- 48464.jpg → images/media/laser-treatment-02.jpg
+- 48465.jpg → images/media/dermatology-congress-02.jpg
+- 48466.jpg → images/media/doctor-consultation.jpg
+
+## Public reviews
+- 48467.jpg → images/reviews/review-rohit-sharma.jpg
+- 48468.jpg → images/reviews/review-pooja-shivhare.jpg
+- 48469.jpg → images/reviews/review-rahul-nahata.jpg
+- 48470.jpg → images/reviews/review-susila-fernandes.jpg
+- 48471.jpg → images/reviews/review-tina-saxena.jpg
+- 48472.jpg → images/reviews/review-afridi-saood.jpg
+- 48473.jpg → images/reviews/review-neetin-kumar.jpg
+- 48474.jpg → images/reviews/review-pramod-lasiyal.jpg
+
+## Case image
+- 48482.jpg → images/cases/prp-source-screenshot.jpg + cropped clinical pair → images/cases/prp-before-after.jpg
+
+## Reference-only uploads intentionally excluded
+- 48480.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
+- 48479.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
+- 48478.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
+- 48477.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
+- 48476.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
+- 48475.jpg → Google Maps service screenshot; used as service reference only, not included in public gallery.
